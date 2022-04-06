@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @musakahero
-- 👀 I’m interested in music and cooking.
+- 👀 I’m interested in programming, music, cooking.
 - 🌱 I’m currently learning JavaScript.
 <!---- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
