@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @musakahero
+- 👋 Hi, I’m Teo
 - 👀 I’m interested in programming, music, cooking.
 - 🌱 I’m currently learning JavaScript.
 <!---- 💞️ I’m looking to collaborate on ...
